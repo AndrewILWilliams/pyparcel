@@ -1,2 +1,2 @@
-# parcel_calc
-Converting Marty Singh's matlab parcel calculations into Python
+# pyparcel
+Converting Marty Singh's MATLAB parcel calculations into Python
